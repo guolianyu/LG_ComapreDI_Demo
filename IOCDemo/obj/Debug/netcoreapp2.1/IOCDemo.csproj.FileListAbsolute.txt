@@ -1,0 +1,14 @@
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\bin\Debug\netcoreapp2.1\IOCDemo.deps.json
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\bin\Debug\netcoreapp2.1\IOCDemo.runtimeconfig.json
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\bin\Debug\netcoreapp2.1\IOCDemo.runtimeconfig.dev.json
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\bin\Debug\netcoreapp2.1\IOCDemo.dll
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\obj\Debug\netcoreapp2.1\IOCDemo.csproj.CoreCompileInputs.cache
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\obj\Debug\netcoreapp2.1\IOCDemo.RazorAssemblyInfo.cache
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\obj\Debug\netcoreapp2.1\IOCDemo.RazorAssemblyInfo.cs
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\obj\Debug\netcoreapp2.1\IOCDemo.AssemblyInfoInputs.cache
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\obj\Debug\netcoreapp2.1\IOCDemo.AssemblyInfo.cs
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\obj\Debug\netcoreapp2.1\IOCDemo.RazorTargetAssemblyInfo.cache
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\bin\Debug\netcoreapp2.1\IOCDemo.pdb
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\obj\Debug\netcoreapp2.1\IOCDemo.dll
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\obj\Debug\netcoreapp2.1\IOCDemo.pdb
+E:\ND-GLY\NETCore\EFCore\CompareDemo\IOCDemo\obj\Debug\netcoreapp2.1\IOCDemo.csprojAssemblyReference.cache

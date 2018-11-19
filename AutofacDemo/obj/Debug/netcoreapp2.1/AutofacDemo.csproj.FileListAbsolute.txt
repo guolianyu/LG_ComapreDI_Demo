@@ -1,0 +1,14 @@
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\bin\Debug\netcoreapp2.1\AutofacDemo.deps.json
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\bin\Debug\netcoreapp2.1\AutofacDemo.runtimeconfig.json
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\bin\Debug\netcoreapp2.1\AutofacDemo.runtimeconfig.dev.json
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\bin\Debug\netcoreapp2.1\AutofacDemo.dll
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\obj\Debug\netcoreapp2.1\AutofacDemo.csproj.CoreCompileInputs.cache
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\obj\Debug\netcoreapp2.1\AutofacDemo.RazorAssemblyInfo.cache
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\obj\Debug\netcoreapp2.1\AutofacDemo.RazorAssemblyInfo.cs
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\obj\Debug\netcoreapp2.1\AutofacDemo.AssemblyInfoInputs.cache
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\obj\Debug\netcoreapp2.1\AutofacDemo.AssemblyInfo.cs
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\obj\Debug\netcoreapp2.1\AutofacDemo.RazorTargetAssemblyInfo.cache
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\bin\Debug\netcoreapp2.1\AutofacDemo.pdb
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\obj\Debug\netcoreapp2.1\AutofacDemo.dll
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\obj\Debug\netcoreapp2.1\AutofacDemo.pdb
+E:\ND-GLY\NETCore\EFCore\CompareDemo\AutofacDemo\obj\Debug\netcoreapp2.1\AutofacDemo.csprojAssemblyReference.cache
